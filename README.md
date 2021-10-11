@@ -28,7 +28,7 @@
 
 - Le temps entre vos séries (**1**) se lit avec le *timer* (**2**) ;
 - Le temps du *timer entre exos* est défini par la valeur du champ *timer entre exos*, par défaut c'est 4 min ;
-- Pour changer d'exercice utiliser *previous* (**3**) ou *next* (**5**).
+- Pour changer d'exercice utilisez *previous* (**3**) ou *next* (**5**).
 
 
 ## Modifier un exercice
