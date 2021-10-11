@@ -16,7 +16,7 @@
 - Pour enregistrer un deuxième exercice renseigné à nouveau les champs **2**,**3**,**4**,**5** puis validez l'exercice (**6**) ;
 - Lorsque tous les exercices sont renseignés, validez la séance **7**.
 
-/!\ ATTENTION : faites bien correspondre le nombre de séries et le nombre de poids et de répétitions que vous renseignez.
+***/!\ ATTENTION*** : faites bien correspondre le nombre de séries et le nombre de poids et de répétitions que vous renseignez.
 
 ## Lire une séance 
 
@@ -33,10 +33,17 @@
 
 ## Modifier un exercice
 
-
+![modifications](https://user-images.githubusercontent.com/74672067/136777293-734b3e12-8aed-4cea-bd5a-59837eedebcc.PNG)
 
 - Vous changez les valeurs de l'exercice que vous etes en train de regarder dans l'onglet *lire*;
 - Vous pouvez changer un ou plusieurs champs en prenant soin de valider le(s) champ(s) modifié(s);
 - Lorsque vous avez fini, cliquez sur *valider modif* et revenez sur *lire*. L'onglet affiche le premier exercice de votre séance. 
 
+***/!\ ATTENTION :***
+- Pour le moment lorsque vous modifez le champ poids ou rep, il vous faut retaper tous les poids ou rep de votre série ;
+- Si vous ajoutez une série n'oubliez pas de modifer le nombre de série.
+
+## A venir
+
+Une prochaine amélioration permettra de suivre la progression de l'utilisateur au cours de ses séances en fonction des exercices
 
