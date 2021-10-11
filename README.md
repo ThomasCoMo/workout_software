@@ -20,4 +20,9 @@
 
 ## Lire une séance 
 
+![lire](https://user-images.githubusercontent.com/74672067/136774069-4fdc9f61-e799-47f8-aac7-d5ea5ea63022.PNG)
+
+- Tapez le noms de votre séance et cliquez sur *ouvrir fichier séance*
+
+
 
